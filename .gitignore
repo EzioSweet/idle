@@ -5,6 +5,8 @@ pom.xml.releaseBackup
 pom.xml.versionsBackup
 release.properties
 
+#谁敢传自己的配置问题啊
+*.yml
 # Eclipse
 .project
 .classpath
